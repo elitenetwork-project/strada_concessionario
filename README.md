@@ -14,9 +14,9 @@
 - Aggiungilo allo start del server
 
 ### Anteprima
-https://i.imgur.com/Lba0QnE.png
-https://i.imgur.com/2DIUMzw.png
-https://i.imgur.com/4vRyyXS.png
-https://i.imgur.com/UAFS46t.png
-https://i.imgur.com/1jyoV30.png
+https://i.imgur.com/Lba0QnE.png<br>
+https://i.imgur.com/2DIUMzw.png<br>
+https://i.imgur.com/4vRyyXS.png<br>
+https://i.imgur.com/UAFS46t.png<br>
+https://i.imgur.com/1jyoV30.png<br>
 https://i.imgur.com/6tIXRQk.png
