@@ -11,7 +11,7 @@
 
 ### Download
 - Download https://github.com/elitenetwork-project/strada_concessionario
-- Aggiungilo allo start del server
+- Aggiungila allo start del server
 
 ### Anteprima
 <img src="https://i.imgur.com/Lba0QnE.png"><br>
