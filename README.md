@@ -7,11 +7,11 @@
 <br><br><br><br><br><br>
 <hr>
 
-## Download & Installazione
+## Download & Installation
 
 ### Download
 - Download https://github.com/elitenetwork-project/strada_concessionario
-- Aggiungila allo start del server
+- Add it to the server start
 
 ### Anteprima
 <img src="https://i.imgur.com/Lba0QnE.png"><br>
